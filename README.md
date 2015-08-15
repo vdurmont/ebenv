@@ -6,6 +6,9 @@ Tool used to manipulate the environment variables of an AWS Elastic Beanstalk en
 
 ## Installation
 
+You first need to install the [ElasticBeanstalk client](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html) and initialize it with `eb init`.
+
+Then, install **ebenv**:
 ```bash
 npm install -g ebenv
 ```
