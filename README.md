@@ -2,7 +2,7 @@
 
 [![License Info](http://img.shields.io/badge/license-The%20MIT%20License-brightgreen.svg)](https://github.com/vdurmont/ebenv/blob/master/LICENSE.md)
 
-Utility to manipulate the environment variables of an AWS Elastic Beanstalk environment with json, yml or properties files.
+Tool used to manipulate the environment variables of an AWS Elastic Beanstalk environment with json, yml or properties files.
 
 ## Installation
 
