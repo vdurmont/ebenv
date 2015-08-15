@@ -1,0 +1,27 @@
+{
+  "name": "ebenv",
+  "version": "0.1.0",
+  "description": "Utility to manipulate the environment variables of an AWS Elastic Beanstalk environment with json, yml or properties files.",
+  "main": "ebenv.js",
+  "keywords": [
+    "aws",
+    "eb",
+    "elastic",
+    "beanstalk",
+    "environment",
+    "env",
+    "json",
+    "yml",
+    "properties"
+  ],
+  "dependencies": {
+    "colors": "~1.1.2",
+    "commander": "~2.8.1",
+    "q": "~1.4.1"
+  },
+  "author": "Vincent DURMONT",
+  "license": "MIT",
+  "bin": {
+    "ebenv": "ebenv.js"
+  }
+}
